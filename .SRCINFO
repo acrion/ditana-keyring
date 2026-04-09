@@ -1,0 +1,10 @@
+pkgbase = ditana-keyring
+	pkgdesc = Ditana GNU/Linux PGP keyring
+	pkgver = 20250409
+	pkgrel = 1
+	url = https://ditana.org
+	install = ditana-keyring.install
+	arch = any
+	license = GPL-3.0-or-later
+
+pkgname = ditana-keyring

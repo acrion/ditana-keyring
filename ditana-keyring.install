@@ -1,0 +1,9 @@
+post_install() {
+    if [ -x /usr/bin/pacman-key ]; then
+        pacman-key --populate ditana
+    fi
+}
+
+post_upgrade() {
+    post_install
+}
