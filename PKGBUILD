@@ -2,7 +2,7 @@
 
 pkgname=ditana-keyring
 pkgver=20250410
-pkgrel=1
+pkgrel=2
 pkgdesc='Ditana GNU/Linux PGP keyring'
 arch=('any')
 url='https://ditana.org'
