@@ -1,8 +1,8 @@
 # Maintainer: Stefan Zipproth <s.zipproth@ditana.org>
 
 pkgname=ditana-keyring
-pkgver=20250410
-pkgrel=2
+pkgver=20260809
+pkgrel=1
 pkgdesc='Ditana GNU/Linux PGP keyring'
 arch=('any')
 url='https://ditana.org'
